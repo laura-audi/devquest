@@ -1,0 +1,36 @@
+
+.thead{
+    background: #BB86F6;
+}
+.tbody{
+    background: #424250;
+}
+.thead2{
+    background: #00c4b4;
+}
+html{
+    background: linear-gradient(#af67e9,#00c4b4);
+    min-height: 100%;  
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30%;
+    margin-top: 10%;
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.table{
+    width: 500px;
+    height: 200px;
+    padding: 1%;
+}
+body{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}

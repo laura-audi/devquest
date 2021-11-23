@@ -1,0 +1,16 @@
+.paragraph1{ background-color:#F5F5F5;}
+.paragraph2{background-color:#F0CCE2 ;}
+p{
+    padding: 20px;
+    margin-bottom: 40px;
+}
+h1{
+    text-align: center;
+    color: rgb(137, 166, 197);
+    text-transform: uppercase;
+}
+body{
+    margin: 0 auto;
+    width: 60%;
+    font-family:  Arial, sans-serif;
+}

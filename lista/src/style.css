@@ -1,0 +1,23 @@
+body{
+    margin: 0 auto;
+    width: 60%;
+    background: #e3a8f3;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+main{
+    height: 600px;
+    background-image: url('./images/design_sem_nome.png');
+    background-size: cover;
+}
+.list{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 100%;
+    height: 30%;
+    padding-top: 10%;
+}
+li{
+    list-style-type: none;
+}
+

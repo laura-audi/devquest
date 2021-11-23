@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(174, 119, 226);
+}
+main{
+    padding: 2%;
+    background-color: rgb(215, 182, 245);
+}
+
+.image{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
