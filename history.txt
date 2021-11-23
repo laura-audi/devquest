@@ -1,0 +1,71 @@
+    1  ls
+    2  cd Desktop/
+    3  cd..
+    4  pwd
+    5  mkdir
+    6  clear
+    7  mkdir laura
+    8  cd laura
+    9  cd..
+   10  cd ..
+   11  rm -d laura
+   12  ls desktop
+   13  ls desktop
+   14  lls
+   15  ls
+   16  rm -d Terapia\ Cognitiv
+   17  rm -d avaliacao_neuropsicologica_e_o_diagnostico_de_demencia.pdf 
+   18  rm -d 'Terapia Cognitivo Comportamental Para Leigos.pdf' 
+   19  rm -d 'Neurociência bases do comportamento - Marcus Lira Brandão.pdf' 
+   20  ls
+   21  rm -d 'Kristensen et al 2001 História da Neuropsicologia Cognitiva.pdf' 
+   22  ls
+   23  ls
+   24  cd Desktop/
+   25  ls
+   26  cd DEVQUEST/
+   27  ls
+   28  cd modulo-css/
+   29  ls
+   30  cd 12-medidas-absolutas/
+   31  ls
+   32  ls çla
+   33  ls -la
+   34  cd ../..
+   35  cd ..
+   36  cd ../..
+   37  cd Desktop/
+   38  cd projFAQ/
+   39  ls
+   40  ls -la
+   41  ls
+   42  cd Desktop/
+   43  mkdir
+   44  mkdir templates
+   45  cd templates/
+   46  git init
+   47  git clone https://github.com/technext/100-template-list.git
+   48  ls
+   49  cd 100-template-list/
+   50  ls
+   51  .code
+   52  ls -la
+   53  cd Desktop/
+   54  ls
+   55  cd
+   56  cd Desktop/
+   57  cd DESAFIOSdevquest/
+   58  git status
+   59  git init
+   60  git status
+   61  git add .
+   62  git status
+   63  git commit
+   64  git commit -m "repesitorio inicializado"
+   65  git status
+   66  git remote add origin https://github.com/laura-audi/devquest.git
+   67  git push
+   68   git push --set-upstream origin master
+   69   git push --set-upstream origin master
+   70   git push --set-upstream origin master
+   71  history > history.txt
